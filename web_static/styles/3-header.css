@@ -1,0 +1,11 @@
+header {
+    background-color: #FF0000;
+    height: 70px;
+    width: 100%;
+    border-bottom-width: 1px;
+    border-bottom-color: #CCCCCC;
+    border-bottom-style: solid;
+    background-image: url(images/logo.png);
+    background-repeat: no-repeat;
+    background-position: 20px center;
+}
