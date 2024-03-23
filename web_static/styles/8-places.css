@@ -48,3 +48,18 @@ div.number_bathrooms {
     width: 100px;
     height: 100%;
 }
+
+div.max_guest {
+    background-image: url('./images/icon_group.png');
+    background-repeat: no-repeat;
+}
+
+div.number_rooms {
+    background-image: url('./images/icon_bed.png');
+    background-repeat: no-repeat;
+}
+
+div.number_bathrooms {
+    background-image: url('./images/icon_bath.png');
+    background-repeat: no-repeat;
+}
