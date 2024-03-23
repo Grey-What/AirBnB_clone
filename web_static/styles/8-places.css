@@ -34,3 +34,17 @@ div.price_by_night {
     font-size: 30px;
     text-align: right;
 }
+
+div.information {
+    height:80px;
+    border-top: 1px solid #DDDD;
+    border-bottom: 1px solid #DDD;
+}
+
+div.max_guest,
+div.number_rooms,
+div.number_bathrooms {
+    display: inline-block;
+    width: 100px;
+    height: 100%;
+}
