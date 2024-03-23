@@ -67,7 +67,7 @@ div.number_bathrooms {
 }
 
 div.user {
-    text-align: right;
+    text-align: left;
     height: 40px;
     line-height: 40px;
 }
