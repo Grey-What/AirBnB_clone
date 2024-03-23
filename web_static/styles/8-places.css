@@ -71,3 +71,9 @@ div.user {
     height: 40px;
     line-height: 40px;
 }
+
+div.description {
+    text-align: left;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
